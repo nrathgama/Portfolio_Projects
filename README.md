@@ -9,3 +9,5 @@
 - **COVID-19 Portfolio Dashboard.png:**   COVID-19 Portfolio Project **Tableau Dashboard** can be found at this link. 
 Feel free to visit :)
 https://public.tableau.com/app/profile/nilupul.rathgama/viz/COVID-19Dashboard_16479298815470/Dashboard1?publish=yes
+
+-**Movie Correlation Project.ipynb:** contains a data analysis and cleaning conducted with Python. Supoortive data was retrieved from https://www.kaggle.com/danielgrijalvas/movies. **Jupyter** Note books were used as a platform. 
