@@ -6,6 +6,6 @@
 
 - **COVID Portfolio Project.sql:** contains SQL codes modeling data for Tableau Dashboard.
 
-- **COVID-19 Portfolio Dashboard.png:**   COVID-19 Portfolio Project Tableau Dashboard can be found at this link. 
+- **COVID-19 Portfolio Dashboard.png:**   COVID-19 Portfolio Project **Tableau Dashboard** can be found at this link. 
 Feel free to visit :)
 https://public.tableau.com/app/profile/nilupul.rathgama/viz/COVID-19Dashboard_16479298815470/Dashboard1?publish=yes
