@@ -1,3 +1,7 @@
+/*
+#### COVID-19 Portfolio Project - SQL data modeling ####
+*/
+
 create database PortfolioProject
 
 SELECT *
