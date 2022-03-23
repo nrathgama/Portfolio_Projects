@@ -10,4 +10,6 @@
 Feel free to visit :)
 https://public.tableau.com/app/profile/nilupul.rathgama/viz/COVID-19Dashboard_16479298815470/Dashboard1?publish=yes
 
+- **COVID Portfolio Project Power BI.PDF:**   COVID-19 Portfolio Project **Power-BI Dashboard** 
+
 - **Movie Correlation Project.ipynb:** contains a data analysis and cleaning conducted with Python. Supportive data was retrieved from https://www.kaggle.com/danielgrijalvas/movies. **Jupyter Notebook** were used as a platform. 
