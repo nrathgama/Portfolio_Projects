@@ -7,9 +7,9 @@
 - **COVID Portfolio Project.sql:** contains SQL codes modeling data for **Tableau Dashboard**.
 
 - **COVID-19 Portfolio Dashboard.png:**   COVID-19 Portfolio Project **Tableau Dashboard** can be found at this link. 
-Feel free to visit [NiluRA_Tableau](https://public.tableau.com/app/profile/nilupul.rathgama/viz/COVID-19Dashboard_16479298815470/Dashboard1?publish=yes)
+Feel free to visit [COVID-19 Dashboard by Nilu RA](https://public.tableau.com/app/profile/nilupul.rathgama/viz/COVID-19Dashboard_16479298815470/Dashboard1?publish=yes)
 
 - **COVID Portfolio Project Power BI.PDF:**   COVID-19 Portfolio Project **Power-BI Dashboard** 
 
-- **Movie Correlation Project.ipynb:** contains a data analysis and cleaning conducted with Python. Supportive data was retrieved from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies.) **Jupyter Notebook** was used as a platform. 
+- **Movie Correlation Project.ipynb:** contains a data analysis and cleaning conducted with Python. Supportive data was retrieved from [Kaggle.com](https://www.kaggle.com/danielgrijalvas/movies) **Jupyter Notebook** was used as a platform. 
 -      Note:**Movie Correlation Project.ipynb:** is a larger file with entended loading time!
