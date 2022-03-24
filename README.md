@@ -17,4 +17,4 @@
 - **Movie Correlation Project.ipynb** contains a data analysis & data cleaning conducted with **Python**. 
 - Supportive data was retrieved from [Kaggle.com](https://www.kaggle.com/danielgrijalvas/movies) 
 - **Jupyter Notebook** was used as a platform. 
- -       Note: Movie Correlation Project.ipynb: is a large file with entended loading time! Thank You for your patience
+ -       Note: Movie Correlation Project.ipynb: is a large file with entended loading time!
